@@ -1,4 +1,4 @@
-#SpringBoot-Microservice2-Transaction
+#spring-boot-microservice-2-transaction
 
 ## Endpoints
 
